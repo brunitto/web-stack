@@ -1,6 +1,7 @@
 # WEB-STACK
 
-A simple web application stack using StackSpot. This stack includes:
+A simple web application stack using [StackSpot](https://stackspot.com).
+This stack includes:
 
 1. Python 3.10 as programming language
 2. Django 4.0 as web framework
